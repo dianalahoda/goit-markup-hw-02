@@ -37,16 +37,16 @@ address {
   color: #f4f4fd;
 }
 .contacts {
-  color: #434455;
+  font-style: normal;
 }
-.contacts:hover,
-.contacts:focus {
-  color: #404bbf;
-}
-
 .contacts-list {
 }
 .contacts-item {
 }
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
 .contacts-link {
+  color: #434455;
 }
